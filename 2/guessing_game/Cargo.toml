@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2021"
+authors = ["backdfb <wva22lfr@gmail.com>"]
+
+[dependencies]
+
+rand = "0.4.0"
